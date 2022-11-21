@@ -1,0 +1,44 @@
+[{
+    "ICON": "💪",
+    "TITLE": "Trainer Session 7 of 12 (Overall Session 18): November 17, 2022",
+    "BODY WEIGHT": 75,
+    "SETS": {
+        "Treadmill (Walk)": ["15 minutes"],
+        "Incline Barbell Bench Press": [
+            "20 lbs plates + 20 lbs bar (60 lbs total) 15x1",
+            "40 lbs plates (100 lbs total) 12x1;",
+            "50 lbs plates (120 lbs total) 10x1"
+        ],
+        "Flat Barbell Bench Press": [
+            "20 lbs plates + 20 lbs bar (60 lbs total) 15x1",
+            "40 lbs plates (100 lbs total) 12x1",
+            "50 lbs plates (120 lbs total) 5x2"
+        ],
+        "Decline Barbell Bench Press": [
+            "20 lbs plates + 20 lbs bar (60 lbs total) 15x1",
+            "30 lbs plates + bar (80 lbs total) 12x1",
+            "35 lbs plates + bar (90 lbs total) 5x2"
+        ],
+        "Machine Flies": ["30 lbs 15x1",
+            "40 lbs 12x1",
+            "50 lbs 10x1"
+        ],
+        "Cable Decline Flies": ["20 lbs 15x3"],
+        "Straight-bar Tricep Pulldown (Superset into Cable Tricep Pulldown)": ["40 lbs 15x3 Superset -> 30 lbs"]
+    },
+    "NOTES": [
+        {
+            "On Bench Press": [
+                "Keep the bar aligned with your forearm (adjust your grip if it's sitting on top of your fingers)"
+            ]
+        },
+        {
+            "On Decline Cable Flies": [
+                "Slightly bend forwards with an erect spine",
+                "Extend your arms downwards towards your knees per rep (do not join your hands)"
+            ]
+        }
+    ]
+},
+{}
+]
