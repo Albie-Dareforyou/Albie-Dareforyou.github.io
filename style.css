@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.space {   
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.card-item {
+    background-color: rgb(233, 233, 233);
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.section {
+    padding-top: 8px
+}
+
+.sub-space {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.last-item {
+    margin-bottom: 48px
+}
