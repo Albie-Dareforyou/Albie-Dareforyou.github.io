@@ -17,11 +17,24 @@ body {
     flex-direction: column;
 }
 
-.card-item {
-    background-color: rgb(233, 233, 233);
-    border-radius: 8px;
+.card-item-space {
     margin-top: 8px;
     margin-bottom: 8px;
+    padding-right: 64px;
+}
+
+.card-item-border-1 {
+    background-color: rgb(233, 233, 233);
+    border-radius: 8px;
+}
+
+.card-item-border-2 {
+    background-color: rgb(221, 221, 221);
+    border-left-color: rgba(0, 0, 0, 0.39);
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
 }
 
 .section {
@@ -31,8 +44,16 @@ body {
 .sub-space {
     padding-left: 16px;
     padding-right: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-bottom: 4px;
+    max-width: 24pc;
 }
 
 .last-item {
-    margin-bottom: 48px
+    margin-bottom: 48px;
+}
+
+ol li {
+    margin-top: 20px
 }
