@@ -2,6 +2,12 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.content-wrapper {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .flex-container {
     display: flex;
 }
@@ -47,7 +53,7 @@ body {
     padding-top: 4px;
     padding-bottom: 4px;
     margin-bottom: 4px;
-    max-width: 24pc;
+    max-width: 440px;
 }
 
 .last-item {
