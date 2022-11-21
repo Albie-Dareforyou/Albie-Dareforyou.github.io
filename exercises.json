@@ -26,19 +26,15 @@
         "Cable Decline Flies": ["20 lbs 15x3"],
         "Straight-bar Tricep Pulldown (Superset into Cable Tricep Pulldown)": ["40 lbs 15x3 Superset -> 30 lbs"]
     },
-    "NOTES": [
-        {
-            "On Bench Press": [
-                "Keep the bar aligned with your forearm (adjust your grip if it's sitting on top of your fingers)"
-            ]
-        },
-        {
-            "On Decline Cable Flies": [
-                "Slightly bend forwards with an erect spine",
-                "Extend your arms downwards towards your knees per rep (do not join your hands)"
-            ]
-        }
-    ]
+    "NOTES": {
+        "On Bench Press": [
+            "Keep the bar aligned with your forearm (adjust your grip if it's sitting on top of your fingers)"
+        ],        
+        "On Decline Cable Flies": [
+            "Slightly bend forwards with an erect spine",
+            "Extend your arms downwards towards your knees per rep (do not join your hands)"
+        ]
+    }
 },
 {}
 ]
